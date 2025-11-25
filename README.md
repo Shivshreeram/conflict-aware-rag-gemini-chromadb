@@ -162,16 +162,3 @@ Monthly usage:
 - Output tokens: ~60M → ~$24  
 
 Total estimated monthly cost: **~$36/month** (LLM only)
-
----
-
-## Submission Checklist
-
-- Conflict-aware retrieval implemented  
-- Uses Gemini Flash 2.5  
-- Embeddings: text-embedding-004  
-- Local ChromaDB vector store  
-- Correct intern remote-work answer  
-- Document citations included  
-- README includes conflict logic, cost analysis, setup instructions  
-- Screenshot added  
