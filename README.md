@@ -162,3 +162,9 @@ Monthly usage:
 - Output tokens: ~60M → ~$24  
 
 Total estimated monthly cost: **~$36/month** (LLM only)
+
+
+## Output screenshot
+
+![alt text](image.png)
+
