@@ -1,0 +1,11 @@
+# Install in this order if you encounter conflicts:
+# 1. pip install chromadb
+# 2. pip install google-generativeai
+# 3. pip install python-dotenv
+# 4. pip install pydantic-settings (required for ChromaDB with Pydantic v2)
+
+chromadb
+google-generativeai
+python-dotenv
+pydantic-settings
+
